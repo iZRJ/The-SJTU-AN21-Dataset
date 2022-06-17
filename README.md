@@ -36,12 +36,11 @@ R. Zhao, X. Deng, Y. Wang, L. Chen, M. Liu, Z. Xue, and Y. Wang, "Flow Sequence-
 
 ```
 @inproceedings{ZRJ-IWQoS22,
-  author    = {Ruijie Zhao and Xianwen Deng and Yanhao Wang and Libo Chen and Ming Liu and Zhi Xue and Yijun Wang},
+  author    = {Zhao, Ruijie and Deng, Xianwen and Wang, Yanhao and Chen, Libo and Liu, Ming and Xue, Zhi and Wang, Yijun},
   title     = {Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks},
   booktitle = {IEEE/ACM International Symposium on Quality of Service (IWQoS)},
   pages     = {1--10},
-  year      = {2022}
-}
+  year      = {2022}}
 ```
 
 
@@ -49,12 +48,11 @@ R. Zhao, Y. Huang, X. Deng, Z. Xue, J. Li, Z. Huang, and Y. Wang, "Flow Transfor
 
 ```
 @inproceedings{ZRJ-MSN21,
-  author    = {Ruijie Zhao and Yiteng Huang and Xianwen Deng and Zhi Xue and Jiabin Li and Zijing Huang and Yijun Wang},
+  author    = {Zhao, Ruijie and Huang, Yiteng and Deng, Xianwen and Xue, Zhi and Li, Jiabin and Huang, Zijing and Wang, Yijun},
   title     = {Flow Transformer: {A} Novel Anonymity Network Traffic Classifier with Attention Mechanism},
   booktitle = {17th International Conference on Mobility, Sensing and Networking (MSN)},
   pages     = {223--230},
   year      = {2021},
-  doi       = {10.1109/MSN53354.2021.00045}
-}
+  doi       = {10.1109/MSN53354.2021.00045}}
 ```
 
