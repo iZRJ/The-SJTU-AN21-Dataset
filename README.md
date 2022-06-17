@@ -11,7 +11,7 @@ To make the classifier applicable to the current anonymity network traffic analy
 In the SJTU-AN21 dataset, Eepsites, IRC, Snark, and Video are the four main anonymity services in the I2P network, and BitTorrent, Chat, FTP, Streaming, and Browsing are the five main anonymity services in the Tor network. We give a detailed description of the different types of traffic generated:
 
 |Anonymity Services|Network|Training Dataset|Test Dataset|
-|--|--|--|
+|--|--|--|--|
 | **Eepsites** |I2P|1,825|1,197|
 | **IRC** |I2P|3,009|484|
 | **Snark** |I2P|7,284|1,784|
