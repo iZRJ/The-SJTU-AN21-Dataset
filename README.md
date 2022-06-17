@@ -35,7 +35,7 @@ The SJTU-AN21 dataset is publicly available for researchers. If you are using ou
 R. Zhao, X. Deng, Y. Wang, L. Chen, M. Liu, Z. Xue, and Y. Wang, "Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks", in *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Oslo, Norway, June 10-12, 2022, pp. 1--10.
 
 ```
-@inproceedings{ZRJ-IWQoS22,
+@inproceedings{ZRJ_IWQoS22,
   author    = {Zhao, Ruijie and Deng, Xianwen and Wang, Yanhao and Chen, Libo and Liu, Ming and Xue, Zhi and Wang, Yijun},
   title     = {Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks},
   booktitle = {IEEE/ACM International Symposium on Quality of Service (IWQoS)},
@@ -47,7 +47,7 @@ R. Zhao, X. Deng, Y. Wang, L. Chen, M. Liu, Z. Xue, and Y. Wang, "Flow Sequence-
 R. Zhao, Y. Huang, X. Deng, Z. Xue, J. Li, Z. Huang, and Y. Wang, "Flow Transformer: A Novel Anonymity Network Traffic Classifier with Attention Mechanism", in *17th International Conference on Mobility, Sensing and Networking (MSN)*, Exeter, UK, Dec. 13-15, 2021, pp. 1--8.
 
 ```
-@inproceedings{ZRJ-MSN21,
+@inproceedings{ZRJ_MSN21,
   author    = {Zhao, Ruijie and Huang, Yiteng and Deng, Xianwen and Xue, Zhi and Li, Jiabin and Huang, Zijing and Wang, Yijun},
   title     = {Flow Transformer: {A} Novel Anonymity Network Traffic Classifier with Attention Mechanism},
   booktitle = {17th International Conference on Mobility, Sensing and Networking (MSN)},
