@@ -35,7 +35,7 @@ The SJTU-AN21 dataset is publicly available for researchers. If you are using ou
 R. Zhao, X. Deng, Y. Wang, L. Chen, M. Liu, Z. Xue, and Y. Wang, "Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks", in *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Oslo, Norway, June 10-12, 2022, pp. 1--10.
 
 ```
-@inproceedings{ZRJ-MSN21,
+@inproceedings{ZRJ-IWQoS22,
   author    = {Ruijie Zhao and
                Xianwen Deng and
                Yanhao Wang and
