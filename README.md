@@ -30,9 +30,28 @@ Link to our laboratory: [SJTU-NSSL](https://github.com/NSSL-SJTU "SJTU-NSSL")
 
 ## Reference
 
-The SJTU-AN21 dataset is publicly available for researchers. If you are using our dataset, you should cite our related research paper:
+The SJTU-AN21 dataset is publicly available for researchers. If you are using our dataset, you should cite our related research papers:
 
-Ruijie Zhao, Yiteng Huang, Xianwen Deng, Zhi Xue, Jiabin Li, Zijing Huang, and Yijun Wang, "Flow Transformer: A Novel Anonymity Network Traffic Classifier with Attention Mechanism", in *17th International Conference on Mobility, Sensing and Networking (MSN)*, Exeter, UK, Dec. 13-15, 2021, pp. 1--8.
+R. Zhao, X. Deng, Y. Wang, L. Chen, M. Liu, Z. Xue, and Y. Wang, "Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks", in *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, Oslo, Norway, June 10-12, 2022, pp. 1--10.
+
+```
+@inproceedings{ZRJ-MSN21,
+  author    = {Ruijie Zhao and
+               Xianwen Deng and
+               Yanhao Wang and
+               Libo Chen and
+               Ming Liu and
+               Zhi Xue and
+               Yijun Wang},
+  title     = {Flow Sequence-Based Anonymity Network Traffic Identification with Residual Graph Convolutional Networks},
+  booktitle = {IEEE/ACM International Symposium on Quality of Service (IWQoS)},
+  pages     = {1--10},
+  year      = {2022}
+}
+```
+
+
+R. Zhao, Y. Huang, X. Deng, Z. Xue, J. Li, Z. Huang, and Y. Wang, "Flow Transformer: A Novel Anonymity Network Traffic Classifier with Attention Mechanism", in *17th International Conference on Mobility, Sensing and Networking (MSN)*, Exeter, UK, Dec. 13-15, 2021, pp. 1--8.
 
 ```
 @inproceedings{ZRJ-MSN21,
@@ -48,7 +67,7 @@ Ruijie Zhao, Yiteng Huang, Xianwen Deng, Zhi Xue, Jiabin Li, Zijing Huang, and Y
   booktitle = {17th International Conference on Mobility, Sensing and Networking (MSN)},
   pages     = {223--230},
   year      = {2021},
-  doi       = {10.1109/MSN53354.2021.00045},
+  doi       = {10.1109/MSN53354.2021.00045}
 }
 ```
 
