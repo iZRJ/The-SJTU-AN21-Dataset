@@ -24,7 +24,7 @@ There are 29,214 flows in the training dataset and 6,979 flows in the test datas
 
 ## About
 
-Due to restrictions on funding and security considerations, this dataset does not provide raw traffic PCAP files. Hope this dataset is useful for your resarch.
+Due to restrictions on our foundation project and security considerations, this dataset does not provide raw traffic PCAP files. Hope this dataset is useful for your resarch.
 
 Link to our laboratory: [SJTU-NSSL](https://github.com/NSSL-SJTU "SJTU-NSSL")
 
